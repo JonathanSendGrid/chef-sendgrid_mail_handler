@@ -1,4 +1,4 @@
-source 'http://chef.ops.sendgrid.net:26200'
+source :chef_server
 
 metadata
 
